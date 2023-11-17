@@ -52,7 +52,7 @@ I am interested in web development
 <th>A</th>
 </tr>
 <form action="/action_page.php">
-    <label for="cars">Choose a country:</label>
+    <label for="country">Choose a country:</label>
     <select name="country" id="country">
       <option value="country">Germany</option>
       <option value="country">Ireland</option>
