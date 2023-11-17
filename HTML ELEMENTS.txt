@@ -1,0 +1,82 @@
+HTML:
+
+
+<html>
+<head>
+<title>MY BIODATA</title>
+</head>
+<marquee>
+<body bgcolor="black"><font color="blue"><font size=30>Biodata</font>
+</marquee>
+<hr>
+<body><font size=5><font color="orange">
+<img align="left" src="https://i.pinimg.com/originals/4b/76/de/4b76de019cb255110896533c4d775f2d.jpg" align="right" height=150 width=150 1px>
+<br>
+<br>
+<br>
+<br><br><br><br>
+
+Name: N. AISHWARYA<br>
+DOB:  04:09:2003<br>
+City:Chennai-19<br>
+Mobile No:9123510069<br>
+Religion:Hindu<br>
+Nationality:Indian<br>
+Gender:Female<br>
+Qualification:BTech IT<br>
+
+<h1>ABOUT ME</h1>
+
+<P>
+I am currently pursuing B.Tech in IT</P>
+<P>I want to become a software engineer</P>
+<P>I have done many certifications in infosys</P>
+I am interested in web development
+</P>
+
+<table border="3" style="font-family:Georgia, Garamond, Serif;color:rgb(255, 0, 43);font-style:italic;">
+    
+<tr>
+<th>Subject</th>
+<th>Marks</th>
+<th>Grade</th>
+</tr>
+<tr>
+<th>Maths</th>
+<th>80%</th>
+<th>A1</th>
+</tr>
+<tr>
+<th>Science</th>
+<th>92%</th>
+<th>A</th>
+</tr>
+<form action="/action_page.php">
+    <label for="cars">Choose a country:</label>
+    <select name="country" id="country">
+      <option value="volvo">Germany</option>
+      <option value="saab">Ireland</option>
+      <option value="opel">Iceland</option>
+      <option value="audi">Canada</option>
+      <option value="audi">Other</option>
+
+    </select>
+    <br><br>
+    <input type="submit" value="Submit">
+  </form>
+</body>
+</html>
+
+
+
+CSS:
+
+body{
+    padding: 25px;
+    background-color: black;
+  }
+  .title {
+      color: #5C6AC4;
+
+  }
+  
