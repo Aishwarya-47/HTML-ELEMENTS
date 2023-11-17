@@ -54,11 +54,11 @@ I am interested in web development
 <form action="/action_page.php">
     <label for="cars">Choose a country:</label>
     <select name="country" id="country">
-      <option value="volvo">Germany</option>
-      <option value="saab">Ireland</option>
-      <option value="opel">Iceland</option>
-      <option value="audi">Canada</option>
-      <option value="audi">Other</option>
+      <option value="country">Germany</option>
+      <option value="country">Ireland</option>
+      <option value="country">Iceland</option>
+      <option value="country">Canada</option>
+      <option value="country">Other</option>
 
     </select>
     <br><br>
